@@ -12,6 +12,7 @@ I like to listing music and watching moveis.
 My interest in creativites and more about curiosity in learn about languages creative writing and more etc.
 
 ## 💫 ABOUT ME:
+- 🎓 **BCA Graduate (2025)** — MJPRU, UP, India
 - 👋 Hi, I’m @jerrydhruv
 - 👀 I’m interested in ... DSA, learning more language, and my interest in creativites and more about curiosity in learn about languages creative writing and more etc.
 - 🌱 I’m currently learning ... Python,PowerBI,HTML,CSS,JS, Creative Writing etc.
@@ -30,11 +31,11 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 📈 Github Status:
-![jerrydhruv's Stats](https://github-readme-stats.vercel.app/api?username=jerrydhruv&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![DhruvXT's Stats](https://github-readme-stats.vercel.app/api?username=DhruvXT&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
-![jerrydhruv's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jerrydhruv&theme=radical&hide_border=true)
+![DhruvXT's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhruvXT&theme=radical&hide_border=true)
 
-![jerrydhruv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrydhruv&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![DhruvXT's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvXT&theme=radical&show_icons=true&hide_border=true&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
