@@ -31,13 +31,12 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 📈 Github Status:
-![DhruvXT's Stats](https://github-readme-stats.vercel.app/api?username=DhruvXT&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![DhruvXT's Status](https://github-readme-stats.shion.dev/api?username=DhruvXT&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 
 ![DhruvXT's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhruvXT&theme=radical&hide_border=true)
 
-![DhruvXT's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvXT&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![DhruvXT's Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=DhruvXT&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 ## 💻 Languages & Tools:
 <p align="left">
@@ -70,7 +69,7 @@ You can click the Preview link to take a look at your changes.
   </a>
   <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+  </a> 
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -98,23 +97,22 @@ You can click the Preview link to take a look at your changes.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jerrydhruv&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=DhruvXT&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jerrydhruv&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=DhruvXT&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jerrydhruv&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=DhruvXT&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jerrydhruv&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=DhruvXT&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ## 🎮 Play My Game:
 <p align="left">
   <a href="https://highlightedmario.netlify.app/" target="_blank">
