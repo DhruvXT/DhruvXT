@@ -1,5 +1,4 @@
 # 👾 Hi There I'm Dhruv Sharma👋
-Hi I'm Computer Application Student.<br>
 I'm a Good learner and I have majored writing skills.<br>
 And I have creativity for every work like copy-paste writing and more related in IT field.<br>
 I have to speaking skills. 
