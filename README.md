@@ -17,7 +17,9 @@ My interest in creativites and more about curiosity in learn about languages cre
 - 👀 I’m interested in ... DSA, learning more language, and my interest in creativites and more about curiosity in learn about languages creative writing and more etc.
 - 🌱 I’m currently learning ... Python,PowerBI,HTML,CSS,JS, Creative Writing etc.
 - 💞️ I’m looking to collaborate on ... A great opportunities.
-- 📫 How to reach me ... dhruvsharmw9@gmail.com, dhruvsharma0511@outlook.com, https://www.linkedin.com/in/dhruv-sharma-6b4534293/, 
+- 📫 How to reach me ... dhruvsharmw9@gmail.com,
+- ✉️  dhruvsharma0511@outlook.com,
+- 📡  https://www.linkedin.com/in/dhruv-sharma-6b4534293/, 
 - 😄 Pronouns: ... Dhruv (ध्रुव)
 - ⚡ Fun fact: ...music,movies,game,social media,learning. 
 
