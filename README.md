@@ -85,7 +85,7 @@ You can click the Preview link to take a look at your changes.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 👀 Profile Viewers:
-![Profile Views](https://komarev.com/ghpvc/?username=jerrydhruv&color=red&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=DhruvXT&color=red&style=flat-square)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 📄 My Resume:
