@@ -8,7 +8,7 @@ I have to like meet new person's any type of related work profession.<br>
 I like to listing music and watching moveis.
 
 ## ^_^
-My interest in creativites and more about curiosity in learn about languages creative writing and more etc.
+My interest in creativites and more about curiosity in learn about Computer languages creative writing and more etc.
 
 ## 💫 ABOUT ME:
 - 🎓 **BCA Graduate (2025)** — MJPRU, UP, India
@@ -23,7 +23,7 @@ My interest in creativites and more about curiosity in learn about languages cre
 - ⚡ Fun fact: ...music,movies,game,social media,learning. 
 
 <!---
-jerrydhruv/jerrydhruv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DhruvXT/DhhruvXT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
