@@ -120,3 +120,12 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/-Play%20Now-ffcc00?style=for-the-badge&logo=super-mario&logoColor=white" />
   </a>
 </p>
+
+
+# Calculator App
+## 🧮 Live Demo
+<p align="left">
+  <a href="https://calculatormore.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Try%20Calculator-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
