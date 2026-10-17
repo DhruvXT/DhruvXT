@@ -32,9 +32,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 📈 Github Status:
-![DhruvXT's Status](https://github-readme-stats.shion.dev/api?username=DhruvXT&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-
-![DhruvXT's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhruvXT&theme=radical&hide_border=true)
+![DhruvXT's Status](https://github-readme-stats.shion.dev/api?username=DhruvXT&theme=radical&hide_border=false&include_all_commits=false&count_private=false),![DhruvXT's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhruvXT&theme=radical&hide_border=true)
 
 ![DhruvXT's Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=DhruvXT&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
