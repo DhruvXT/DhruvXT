@@ -18,12 +18,10 @@ I have to speaking skills.
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
 </p>
 
-# 😎
+## ^_^ 😎
+My interest in creativites and more about curiosity in learn about Computer languages creative writing and more etc.
 I have to like meet new person's any type of related work profession.<br>
 I like to listing music and watching moveis.
-
-## ^_^
-My interest in creativites and more about curiosity in learn about Computer languages creative writing and more etc.
 
 <!---
 DhruvXT/DhhruvXT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,7 +30,6 @@ You can click the Preview link to take a look at your changes.
 
 ## 🔍 Tool's:
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ff0"><img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=ffe"><img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=ff">
-
 
 ## 📈 Github Status:
 ![DhruvXT's Status](https://github-readme-stats.shion.dev/api?username=DhruvXT&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
