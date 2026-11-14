@@ -1,3 +1,15 @@
+## 💫 ABOUT ME:
+- 🎓 **BCA Graduate (2025)** — MJPRU, UP, India
+- 👋 Hi, I’m @jerrydhruv
+- 👀 I’m interested in ... DSA, learning more language, and my interest in creativites and more about curiosity in learn about languages creative writing and more etc.
+- 🌱 I’m currently learning ... Python,PowerBI,HTML,CSS,JS, Creative Writing etc.
+- 💞️ I’m looking to collaborate on ... A great opportunities.
+- 📫 How to reach me ... dhruvsharmw9@gmail.com,
+- ✉️  dhruvsharma0511@outlook.com,
+- 📡  https://www.linkedin.com/in/dhruv-sharma-6b4534293/, 
+- 😄 Pronouns: ... Dhruv (ध्रुव)
+- ⚡ Fun fact: ...music,movies,game,social media,learning. 
+
 # 👾 Hi There I'm Dhruv Sharma👋
 I'm a Good learner and I have majored writing skills.<br>
 And I have creativity for every work like copy-paste writing and more related in IT field.<br>
@@ -12,18 +24,6 @@ I like to listing music and watching moveis.
 
 ## ^_^
 My interest in creativites and more about curiosity in learn about Computer languages creative writing and more etc.
-
-## 💫 ABOUT ME:
-- 🎓 **BCA Graduate (2025)** — MJPRU, UP, India
-- 👋 Hi, I’m @jerrydhruv
-- 👀 I’m interested in ... DSA, learning more language, and my interest in creativites and more about curiosity in learn about languages creative writing and more etc.
-- 🌱 I’m currently learning ... Python,PowerBI,HTML,CSS,JS, Creative Writing etc.
-- 💞️ I’m looking to collaborate on ... A great opportunities.
-- 📫 How to reach me ... dhruvsharmw9@gmail.com,
-- ✉️  dhruvsharma0511@outlook.com,
-- 📡  https://www.linkedin.com/in/dhruv-sharma-6b4534293/, 
-- 😄 Pronouns: ... Dhruv (ध्रुव)
-- ⚡ Fun fact: ...music,movies,game,social media,learning. 
 
 <!---
 DhruvXT/DhhruvXT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -58,7 +58,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 ## 🌐 Connect with Me:
 <p align="left">
@@ -124,9 +123,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-
-# Calculator App
-## 🧮 Live Demo
+#  🧮 Calculator App Live Demo:
 <p align="left">
   <a href="https://calculatormore.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Try%20Calculator-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />
