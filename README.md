@@ -2,6 +2,9 @@
 I'm a Good learner and I have majored writing skills.<br>
 And I have creativity for every work like copy-paste writing and more related in IT field.<br>
 I have to speaking skills. 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
+</p>
 
 # 😎
 I have to like meet new person's any type of related work profession.<br>
