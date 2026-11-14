@@ -1,6 +1,6 @@
 ## 💫 ABOUT ME:
 - 🎓 **BCA Graduate (2025)** — MJPRU, UP, India
-- 👋 Hi, I’m @jerrydhruv
+- 👋 Hi, I’m @DhruvXT
 - 👀 I’m interested in ... DSA, learning more language, and my interest in creativites and more about curiosity in learn about languages creative writing and more etc.
 - 🌱 I’m currently learning ... Python,PowerBI,HTML,CSS,JS, Creative Writing etc.
 - 💞️ I’m looking to collaborate on ... A great opportunities.
