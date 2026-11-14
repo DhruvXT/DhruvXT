@@ -8,7 +8,8 @@
 - ✉️  dhruvsharma0511@outlook.com,
 - 📡  https://www.linkedin.com/in/dhruv-sharma-6b4534293/, 
 - 😄 Pronouns: ... Dhruv (ध्रुव)
-- ⚡ Fun fact: ...music,movies,game,social media,learning. 
+- ⚡ Fun fact: ...music,movies,game,social media,learning.
+- ⚡ _“Code is like magic — if you know the spell, you can build anything.”_
 
 # 👾 Hi There I'm Dhruv Sharma👋
 I'm a Good learner and I have majored writing skills.<br>
