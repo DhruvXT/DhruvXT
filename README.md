@@ -92,6 +92,12 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/-View%20Resume-2E8B57?style=for-the-badge&logo=canva&logoColor=white" />
   </a>
 </p>
+
+<p align="left">
+  <a href="file:///C:/Users/userrr/Downloads/DhruvSharma.pdf target="_blank">
+    <img src="https://img.shields.io/badge/-View%20Resume-2E8B57?style=for-the-badge&logo=canva&logoColor=white" />
+  </a>
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## ✍️ Random Dev Quote
