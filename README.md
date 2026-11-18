@@ -23,7 +23,6 @@ I have to speaking skills.
 My interest in creativites and more about curiosity in learn about Computer languages creative writing and more etc.<br>
 I have to like meet new person's any type of related work profession.<br>
 I like to listing music and watching moveis.
-
 <!---
 DhruvXT/DhhruvXT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -89,12 +88,6 @@ You can click the Preview link to take a look at your changes.
 ## 📄 My Resume:
 <p align="left">
   <a href="https://www.canva.com/design/DAGf-9B8hdg/gNXDqrxOM4q1dR8QzwtnMg/view?utm_content=DAGf-9B8hdg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf3e022b619" target="_blank">
-    <img src="https://img.shields.io/badge/-View%20Resume-2E8B57?style=for-the-badge&logo=canva&logoColor=white" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="file:///C:/Users/userrr/Downloads/DhruvSharma.pdf target="_blank">
     <img src="https://img.shields.io/badge/-View%20Resume-2E8B57?style=for-the-badge&logo=canva&logoColor=white" />
   </a>
 </p>
